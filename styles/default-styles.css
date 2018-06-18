@@ -1,0 +1,10 @@
+body {
+  background-color: #e2f6f6;
+}
+.contentContainer {
+  background-image: url("../images/officenotes.jpg");
+	background-attachment: fixed;
+	background-size:cover;
+  border-radius: 5px;
+  width: 1135px;
+}

@@ -1,0 +1,41 @@
+div.contentContainer {
+  margin-bottom: 30px;
+}
+div.loginRow {
+  margin-top: 100px;
+}
+div.loginWell {
+  border: 2px solid #4a9595;
+  background-color: #d6f8f8;
+  display: block;
+  width: 350px;
+}
+div.logintext {
+  font-family: 'Ubuntu', sans-serif;
+  /*position: absolute;*/
+  font-size: 2em;
+  text-align: center;
+  padding-bottom: 20px;
+  /*padding-top: 20px;*/
+}
+button.submit {
+  width: 200px;
+  margin-top: 15px;
+  right: 0;
+  /*top: 430px;*/
+  /*left: 230px;*/
+}
+form.loginform {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.05em;
+}
+div.loginError {
+  text-align: center;
+  color: red;
+}
+div.tybanklogo {
+  margin-bottom: 100px;
+}
+img.welcomeTitle {
+  width: 750px;
+}
