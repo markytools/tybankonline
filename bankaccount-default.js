@@ -1,0 +1,15 @@
+$('#logoutB').click(function(){
+  window.location='index.php?logout=1';
+});
+$('#myAccountsB').click(function(){
+  window.location='home.php';
+});
+$('#viewTransactionsB').click(function(){
+  window.location='transaction.php';
+});
+$('#billsPaymentB').click(function(){
+  window.location='bills-payment.php';
+});
+$('#sendMoneyB').click(function(){
+  window.location='send-money.php';
+});

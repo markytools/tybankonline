@@ -1,0 +1,112 @@
+img.logo {
+  height: 100px;
+  width: 100px;
+  margin-left: 30px;
+}
+button.logout {
+   float: right;
+   margin-top: 30px;
+}
+div.topheader {
+  font-family: 'Ubuntu', sans-serif;
+}
+nav.navbar {
+  border: 2px solid #a0a0a0;
+}
+div.logoutLink a:link, div.logoutLink a:hover, div.logoutLink a:active, div.logoutLink a:visited {
+  color: #333333;
+}
+div.contentContainer {
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+}
+div.currentTitle {
+  font-family: 'Ubuntu', sans-serif;
+  /*position: absolute;*/
+  /*width: 780px;*/
+  font-size: 2em;
+  text-align: center;
+  right: 20px;
+}
+div.mainRow1 {
+  margin-top: 50px;
+}
+div.well {
+  border: 2px solid #4a9595;
+  background-color: #d6f8f8;
+  display: block;
+}
+div.navigation {
+  font-family: 'Nunito', sans-serif;
+}
+div.navigationText {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 1.2em;
+}
+div.maintable {
+  font-family: 'Nunito', sans-serif;
+}
+table.table-bordered {
+  background-color: #F6FBFB;
+}
+div.mainRow2 {
+  margin-top: 30px;
+}
+
+div.formRow {
+  margin-top: 7px;
+  margin-bottom: 3px;
+}
+
+div.detailLabel {
+  text-align: right;
+  margin-top: 7px;
+}
+
+button.dropdown-toggle {
+  margin-left: 15px;
+  width: 250px;
+  text-align: left;
+  border: 1px solid #A9A9A9;
+}
+
+ul.dropdown-menu {
+  margin-left: 15px;
+  width: 250px;
+  text-align: left;
+  border: 1px solid #A9A9A9;
+}
+
+span.caret {
+  float: right;
+  margin-top: 10px;
+}
+
+input.numInput {
+  margin-top: 3px;
+  line-height: 22px;
+  width: 250px;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+div.detailLabel2 {
+  text-align: right;
+  margin-top: 10px;
+}
+
+div.payB {
+  margin-top: 15px;
+}
+
+div.acctbalance {
+  margin-top: 7px;
+  margin-left: 35px;
+}
+
+div.errorMsg {
+  color: red;
+  margin-top: 19px;
+  text-align: center;
+}
